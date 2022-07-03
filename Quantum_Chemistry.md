@@ -69,7 +69,7 @@ gview
 >Relaxed means that the other bonds can change as they want but the one that you want unchanged does not change. <br>
 
 ### Gaussian scan commands:
-- right click on the molecul group screen (the purple thing) > edit > redundant coordinate > add
+- right click on the molecule group screen (the purple thing) > edit > redundant coordinate > add
 - in add, choose in the drop down table, select any parameter (Dihedral in for example)
 - select the atoms in the molecule relevant to the parameter selected
 - Now after submit, right click > calculate > Gaussian Calculation set up
